@@ -1,0 +1,16 @@
+.dynamic-content {
+  background: white;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.dynamic-content.alt {
+  background: #eaeaea; 
+  color: #333;
+}
+
+@media(min-width: 768px) {
+  .dynamic-content {
+    padding: 60px 40px;
+  }
+}
