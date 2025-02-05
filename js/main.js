@@ -1,4 +1,3 @@
-// js/main.js
 import { initFAQ } from './faq.js';
 import { initModal } from './modal.js';
 import { dynamicText } from './dynamicText.js';
